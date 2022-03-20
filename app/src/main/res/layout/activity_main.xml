@@ -3,10 +3,10 @@
 <RelativeLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
-    android:orientation="vertical">
+    tools:context=".MainActivity">
     <View
         android:layout_width="match_parent"
         android:layout_height="250dp"
@@ -15,7 +15,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="70dp"
+        android:layout_marginTop="150dp"
         android:gravity="center">
 
         <LinearLayout
@@ -29,7 +29,7 @@
             <RelativeLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="25dp"
+                android:layout_marginBottom="15dp"
                 android:background="@drawable/layout_bg">
 
                 <ImageView
@@ -57,7 +57,7 @@
             <RelativeLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="25dp"
+                android:layout_marginBottom="15dp"
                 android:background="@drawable/layout_bg">
 
                 <ImageView
@@ -85,7 +85,7 @@
             <RelativeLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="25dp"
+                android:layout_marginBottom="15dp"
                 android:background="@drawable/layout_bg">
 
                 <ImageView
@@ -113,7 +113,7 @@
             <RelativeLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="25dp"
+                android:layout_marginBottom="15dp"
                 android:background="@drawable/layout_bg">
 
                 <ImageView
@@ -150,7 +150,7 @@
             <RelativeLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="25dp"
+                android:layout_marginBottom="15dp"
                 android:background="@drawable/layout_bg">
 
                 <ImageView
@@ -178,7 +178,7 @@
             <RelativeLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="25dp"
+                android:layout_marginBottom="15dp"
                 android:background="@drawable/layout_bg">
 
                 <ImageView
@@ -206,7 +206,7 @@
             <RelativeLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginBottom="25dp"
+                android:layout_marginBottom="15dp"
                 android:background="@drawable/layout_bg">
 
                 <ImageView
